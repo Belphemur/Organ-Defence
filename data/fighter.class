@@ -1,0 +1,10 @@
+speed: 10
+maxHealth: 100
+img: 7
+weaponlist:
+		wBasic
+		fragGrenade
+		wMine
+		wShotgun
+		wLavaBall
+endlist

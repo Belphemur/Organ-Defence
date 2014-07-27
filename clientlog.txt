@@ -1,0 +1,217 @@
+Logger initialized
+SDL initialized
+SDL_TTF initialized
+ClientNetworkManager initialized
+Event Listenner initialized
+Arial_Bold.ttf loaded
+Arial.ttf loaded
+Scene Manager initialized
+Controller initialized
+Timers initialized
+images/background/background.png loaded
+images/background/titlescreen.png loaded
+images/background/gameover.png loaded
+images/background/healthbar200.png loaded
+images/background/border.png loaded
+images/background/dock.png loaded
+images/background/classes.png loaded
+images/background/backgroundChoixClass.png loaded
+images/background/selected.png loaded
+images/organs/poumon.png loaded
+images/organs/foie.png loaded
+images/organs/coeur.png loaded
+images/organs/poumon_dead.png loaded
+images/organs/foie_dead.png loaded
+images/organs/coeur_dead.png loaded
+images/units/bas.png loaded
+images/units/droite.png loaded
+images/units/haut.png loaded
+images/units/gauche.png loaded
+images/units/bas-droite.png loaded
+images/units/bas-gauche.png loaded
+images/units/haut-droite.png loaded
+images/units/haut-gauche.png loaded
+images/units/dead.png loaded
+images/units/heal_bas.png loaded
+images/units/heal_droite.png loaded
+images/units/heal_haut.png loaded
+images/units/heal_gauche.png loaded
+images/units/heal_bas-droite.png loaded
+images/units/heal_bas-gauche.png loaded
+images/units/heal_haut-droite.png loaded
+images/units/heal_haut-gauche.png loaded
+images/units/heal_dead.png loaded
+images/units/builder_bas.png loaded
+images/units/builder_droite.png loaded
+images/units/builder_haut.png loaded
+images/units/builder_gauche.png loaded
+images/units/builder_bas-droite.png loaded
+images/units/builder_bas-gauche.png loaded
+images/units/builder_haut-droite.png loaded
+images/units/builder_haut-gauche.png loaded
+images/units/builder_dead.png loaded
+images/virus/virus1a.png loaded
+images/virus/virus2.png loaded
+images/virus/virus3.png loaded
+images/virus/virus4.png loaded
+images/virus/virus5.png loaded
+images/projectiles/bullet.png loaded
+images/projectiles/mine.png loaded
+images/projectiles/shotgun_bullet.png loaded
+images/projectiles/grenade.png loaded
+images/projectiles/shrapnel.png loaded
+images/projectiles/egg.png loaded
+images/projectiles/healing_bullet.png loaded
+images/projectiles/blackBullet.png loaded
+images/projectiles/greenBullet.png loaded
+images/projectiles/purpleBullet.png loaded
+images/projectiles/lavaball.png loaded
+images/explosions/explosion.png loaded
+images/explosions/healing.png loaded
+images/towers/tower-hurt.png loaded
+images/towers/tower-sand.png loaded
+images/towers/tower-heal.png loaded
+images/towers/tower-slow.png loaded
+images/towers/tower-poison.png loaded
+images/icons/HP.png loaded
+images/icons/ADN.png loaded
+images/icons/lock.png loaded
+images/icons/fragGrenade.png loaded
+images/icons/wHealingGun.png loaded
+images/icons/wShotgun.png loaded
+images/icons/wTowerPoison.png loaded
+images/icons/wBasic.png loaded
+images/icons/wPoisonGun.png loaded
+images/icons/wSlowGun.png loaded
+images/icons/wTowerHeal.png loaded
+images/icons/wTowerHurt.png loaded
+images/icons/wTowerSand.png loaded
+images/icons/wTowerSlow.png loaded
+images/icons/wMine.png loaded
+images/icons/wLavaBall.png loaded
+.png could not be found
+Couldn't open .png
+Images are loaded
+Timer started
+Sent a message : PLAYER_READY
+Starting main loop
+Id received : 4463
+Received PLAYER_NAME, setting player name
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Received GAME_OVER, you lose !
+Quiting
+Sent a message CLIENT_LEFT
+Timer is deleted
+Controller is deleted
+ADN surface deleted
+HP surface deleted
+background surface deleted
+backgroundChoixClass surface deleted
+bas surface deleted
+bas-droite surface deleted
+bas-gauche surface deleted
+blackBullet surface deleted
+border surface deleted
+builder_bas surface deleted
+builder_bas-droite surface deleted
+builder_bas-gauche surface deleted
+builder_dead surface deleted
+builder_droite surface deleted
+builder_gauche surface deleted
+builder_haut surface deleted
+builder_haut-droite surface deleted
+builder_haut-gauche surface deleted
+bullet surface deleted
+classes surface deleted
+coeur surface deleted
+coeur_dead surface deleted
+dead surface deleted
+dock surface deleted
+droite surface deleted
+egg surface deleted
+explosion surface deleted
+foie surface deleted
+foie_dead surface deleted
+fragGrenade surface deleted
+gameover surface deleted
+gauche surface deleted
+greenBullet surface deleted
+grenade surface deleted
+haut surface deleted
+haut-droite surface deleted
+haut-gauche surface deleted
+heal_bas surface deleted
+heal_bas-droite surface deleted
+heal_bas-gauche surface deleted
+heal_dead surface deleted
+heal_droite surface deleted
+heal_gauche surface deleted
+heal_haut surface deleted
+heal_haut-droite surface deleted
+heal_haut-gauche surface deleted
+healing surface deleted
+healing_bullet surface deleted
+healthbar200 surface deleted
+lavaball surface deleted
+lock surface deleted
+mine surface deleted
+poumon surface deleted
+poumon_dead surface deleted
+purpleBullet surface deleted
+selected surface deleted
+shotgun_bullet surface deleted
+shrapnel surface deleted
+titlescreen surface deleted
+tower-heal surface deleted
+tower-hurt surface deleted
+tower-poison surface deleted
+tower-sand surface deleted
+tower-slow surface deleted
+virus1a surface deleted
+virus2 surface deleted
+virus3 surface deleted
+virus4 surface deleted
+virus5 surface deleted
+wBasic surface deleted
+wHealingGun surface deleted
+wLavaBall surface deleted
+wMine surface deleted
+wPoisonGun surface deleted
+wShotgun surface deleted
+wSlowGun surface deleted
+wTowerHeal surface deleted
+wTowerHurt surface deleted
+wTowerPoison surface deleted
+wTowerSand surface deleted
+wTowerSlow surface deleted
+Image Loader map is cleared
+Scene Manager is cleared and deleted
+Event listener is cleared and deleted
+ClientNetworkManager is deleted
+TTF shut down
+SDL shut down

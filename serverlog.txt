@@ -1,0 +1,41 @@
+Logger initialized
+ServerNetworkManager initialized
+ProcessManager initialized
+GameEngine initialized
+Timers initialized
+Server ready
+Connection accepted
+Creating Client Communicator process ...
+GE:	Starting the game engine ...
+GE:	Timers started
+Client Communicator created
+GE: 	Player created
+GE:	1 Player Ready
+END OF SOMEONES LIFE
+GE:	No more child
+GE:	Restarting
+Connection accepted
+Creating Client Communicator process ...
+Client Communicator created
+GE: 	Player created
+GE:	1 Player Ready
+END OF SOMEONES LIFE
+GE:	No more child
+GE:	Restarting
+Connection accepted
+Creating Client Communicator process ...
+GE:	Starting the game engine ...
+GE:	Timers started
+Client Communicator created
+GE: 	Player created
+GE:	1 Player Ready
+END OF SOMEONES LIFE
+GE:	No more child
+GE:	Restarting
+Connection accepted
+Creating Client Communicator process ...
+GE:	Starting the game engine ...
+GE:	Timers started
+Client Communicator created
+GE: 	Player created
+GE:	1 Player Ready

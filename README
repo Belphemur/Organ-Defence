@@ -1,0 +1,100 @@
+  __  ____   ___   __   __ _  ____   
+ /  \(  _ \ / __) / _\ (  ( \(  __)  
+(  O ))   /( (_ \/    \/    / ) _)    
+ \__/(__\_) \___/\_/\_/\_)__)(____)  
+
+ ____  ____  ____  ____  __ _  ____  ____ 
+(    \(  __)(  __)(  __)(  ( \/ ___)(  __)
+ ) D ( ) _)  ) _)  ) _) /    /\___ \ ) _) 
+(____/(____)(__)  (____)\_)__)(____/(____)
+*********************
+* TABLE OF CONTENTS *
+*********************
+
+1. How to compile the game
+ 1.1 Server
+ 1.2 Clients
+ 1.3 Be tidy
+ 
+2. How to start the game
+ 1.1 Server
+ 1.2 Clients
+ 
+3. How to run the tests
+ 3.1 Compiling the test version
+ 3.2 Running the tests
+ 3.3 What happened ? Server and client logs
+
+
+******************************
+* 1. How to compile the game *
+******************************
+
+The source code is provided with a Makefile, so it's kinda easy to compile it and make it run
+
+1.1 Server
+----------
+
+- Open a terminal and go to the source code directory.
+- Type "make server" and press Enter
+- That's it :)
+
+1.2 Clients
+-----------
+
+- Open a terminal and go to the source code directory
+- Type "make client" and press Enter
+- That's it :)
+
+1.3 Be tidy
+-----------
+
+In order to remove all the temporary .o files, you may use the "make clean" command.
+If you want to completely remove the game (executables and object files -- not the source code), you may
+want to use the "make cleana" command.
+
+
+****************************
+* 2. How to start the Game *
+****************************
+
+2.1 Server
+----------
+
+- Go to the the source code directory and compile the server (see above)
+- Run the "server" executable, and as an argument, give the number of clients you except. E.g., for a 4-player game, type in a terminal "./server -n 4"
+- At the time being, the server outputs some informations about the current state of the game. You also may want to read the
+  logs to see what's happening (see below)
+  
+2.2 Clients
+-----------
+
+- Go to the source code directory and compile the client (see above)
+- Open a terminal and run the "client" executable. You need to give the server name (hostname) as a parameter of the client exec.
+  For instance, if the server is running on di-pc21, just type "./client di-pc21".
+- Enjoy your gaming
+
+(Note: Obviously, the server has to be running when the clients are connecting)
+
+
+***************************
+* 3. How to run the tests *
+***************************
+
+3.1 Compiling the test version
+-------------------------------
+
+- Open a terminal and go to the sources' root directory
+- Type "make tests" and press Enter
+
+3.2 Running the tests
+---------------------
+
+- When running "make tests", the tests run just after the compilation.
+
+3.3 What happened ? Server and client logs
+------------------------------------------
+
+When running the actual game (not the test version), both server and client outputs some log. You may find them in the root dir of the game.
+The server log is named serverlog.txt. It states the action of all the process running on the server (both client communicators and game engine).
+The client log is obviously name clientlog.txt. It states everything the client is doing.

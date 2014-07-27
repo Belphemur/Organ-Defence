@@ -1,0 +1,11 @@
+speed: 12
+maxHealth: 100
+img: 9
+weaponlist:
+		wBasic
+		wTowerHurt
+		wTowerPoison
+		wTowerSlow
+		wTowerSand
+		wMine
+endlist

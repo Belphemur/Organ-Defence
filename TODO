@@ -1,0 +1,35 @@
+* client
+** read appropriate weapon files to display prices of locked weapons
+** unit tests
+** accept TYPE_BUILDER_POISONED, etc...
+** display intro text re the organ to defend
+** name selection and class selection should be implemented game window
+** show high scores on game over and when waiting for other players
+* game engine
+** unit tests
+** cleanup game.cc
+** get rid of duplicate code in load functions
+** get rid of duplicate code period
+** add projectile attributes for no remove on hit to make lava ball weapon :)
+** store high score (time survived + money + kills or something like that)
+** send poisoned img when poisoned
+** new changableThing class for player health, money, ...
+* data
+** add prices to all weapons
+** more weapons
+*** contact weapon for some virus (invisible short lived proj that doesn't move and has the same radius as the virus and low reload time)
+*** probably more in the SRD
+** more kinds of monsters :)
+** balance :P
+* general
+** read SRD, make sure everything is either implemented or has a good reason to be missing
+** check for duplicate attributes that can be moved to parent classes (doxygen might help :) )
+** grep todo
+** grep for magic numbers
+** eliminate warnings + compile with -Wall -Wextra -pedantic ...
+** run cppcheck / lint
+** run valgrind
+* images
+** weapons
+
+   

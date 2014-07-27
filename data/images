@@ -1,0 +1,92 @@
+background    		images/background/
+titlescreen   		images/background/
+gameover       		images/background/
+healthbar200   		images/background/
+border	       		images/background/
+dock           		images/background/
+classes        		images/background/
+backgroundChoixClass	images/background/
+selected		images/background/
+
+poumon         images/organs/
+foie           images/organs/
+coeur          images/organs/
+
+poumon_dead    images/organs/
+foie_dead      images/organs/
+coeur_dead     images/organs/
+
+bas            images/units/
+droite         images/units/
+haut           images/units/
+gauche         images/units/
+bas-droite     images/units/
+bas-gauche     images/units/
+haut-droite    images/units/
+haut-gauche    images/units/
+dead           images/units/
+
+heal_bas            images/units/
+heal_droite         images/units/
+heal_haut           images/units/
+heal_gauche         images/units/
+heal_bas-droite     images/units/
+heal_bas-gauche     images/units/
+heal_haut-droite    images/units/
+heal_haut-gauche    images/units/
+heal_dead           images/units/
+
+builder_bas            images/units/
+builder_droite         images/units/
+builder_haut           images/units/
+builder_gauche         images/units/
+builder_bas-droite     images/units/
+builder_bas-gauche     images/units/
+builder_haut-droite    images/units/
+builder_haut-gauche    images/units/
+builder_dead           images/units/
+
+virus1a        images/virus/
+virus2         images/virus/
+virus3	       images/virus/
+virus4	       images/virus/
+virus5	       images/virus/
+
+
+bullet         images/projectiles/
+mine           images/projectiles/
+shotgun_bullet images/projectiles/
+grenade	       images/projectiles/
+shrapnel       images/projectiles/
+egg            images/projectiles/
+healing_bullet images/projectiles/
+blackBullet		images/projectiles/
+greenBullet		images/projectiles/
+purpleBullet	images/projectiles/
+lavaball		images/projectiles/
+
+explosion      images/explosions/
+healing        images/explosions/
+
+tower-hurt         images/towers/
+tower-sand	   images/towers/
+tower-heal         images/towers/
+tower-slow         images/towers/
+tower-poison       images/towers/
+
+HP	       images/icons/
+ADN	       images/icons/
+lock           images/icons/
+fragGrenade    images/icons/
+wHealingGun    images/icons/
+wShotgun       images/icons/
+wTowerPoison   images/icons/
+wBasic         images/icons/
+wPoisonGun     images/icons/
+wSlowGun       images/icons/
+wTowerHeal     images/icons/
+wTowerHurt     images/icons/
+wTowerSand     images/icons/
+wTowerSlow     images/icons/
+wMine          images/icons/
+wLavaBall      images/icons/

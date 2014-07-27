@@ -1,0 +1,151 @@
+10
+red_monster 3 NE
+red_monster 3 SE
+end_wave
+
+100
+red_monster 3 NW
+red_monster 3 SW
+end_wave
+
+200
+green_monster 4 NW
+green_monster 4 NE
+red_monster 2 NW
+red_monster 2 NE
+end_wave
+
+500
+blue_monster 2 NE
+blue_monster 1 NW
+blue_monster 2 SE
+blue_monster 3 SW
+end_wave
+
+900
+green_monster 5 NW
+red_monster 5 NW
+end_wave
+
+1000
+mother 1 SE
+end_wave
+
+1200
+blue_monster 3 SE
+green_monster 2 NW
+red_monster 3 NW
+end_wave
+
+1400
+mother 1 NW
+mother 2 SE
+end_wave
+
+1600
+blue_monster 4 NE
+blue_monster 4 NW
+end_wave
+
+2000
+huge 1 SE
+end_wave
+
+2350
+green_monster 4 NE
+blue_monster 4 NE
+red_monster 8 NE
+mother 1 NE
+end_wave
+
+2500
+red_monster 3 SE
+red_monster 3 SW
+red_monster 3 NE
+red_monster 3 NW
+end_wave
+
+2700
+mother 3 SW
+huge 1 NE
+end_wave
+
+2800
+red_monster 6 SE
+red_monster 6 SW
+red_monster 6 NE
+red_monster 6 NW
+end_wave
+
+3000
+blue_monster 4 SE
+blue_monster 5 SW
+end_wave
+
+3200
+blue_monster 4 NE
+blue_monster 5 NW
+green_monster 4 SE
+red_monster 3 SW
+mother 2 SE
+end_wave
+
+3400
+green_monster 5 SE
+blue_monster 4 SE
+red_monster 10 SE
+end_wave
+
+4000
+huge 1 NE
+huge 1 NW
+huge 1 SE
+huge 1 SW
+end_wave
+
+4500
+red_monster 6 NE
+red_monster 7 NW
+red_monster 7 SE
+red_monster 6 SW
+green_monster 5 NE
+green_monster 5 SW
+blue_monster 7 NW
+blue_monster 7 SE
+mother 2 NE
+mother 2 NW
+mother 2 SE
+mother 2 SW
+end_wave
+
+4800
+huge 1 SE
+huge 1 NW
+red_monster 10 SW
+red_monster 10 NE
+end_wave
+
+4900
+huge 1 SE
+huge 2 NE
+huge 2 SW
+huge 1 NW
+green_monster 15 SE
+green_monster 15 NW
+end_wave
+
+5100
+blue_monster 8 NE
+blue_monster 8 SW
+green_monster 7 SE
+green_monster 7 NW
+huge 1 NE
+huge 1 SW
+end_wave
+
+6200
+red_monster 10 NE
+red_monster 10 NW
+red_monster 10 SE
+red_monster 10 SW
+end_wave

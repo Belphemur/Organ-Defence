@@ -1,0 +1,9 @@
+r: 2
+onHit: smallExplosion.e
+hitAmount: 1
+timeout: 15
+maxTimeout: 25
+onExpire: smallExplosion.e
+expireAmount: 1
+img: 24
+speed: 10

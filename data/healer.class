@@ -1,0 +1,10 @@
+speed: 18
+maxHealth: 75
+img: 8
+weaponlist:
+		wBasic
+		wHealingGun
+		wTowerHeal
+		wPoisonGun
+		wSlowGun
+endlist
